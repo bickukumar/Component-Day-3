@@ -26,11 +26,11 @@
                             <Delhi
                                     jcr:primaryType="nt:unstructured"
                                     text="Delhi"
-                                    value="Delhi"/>
+                                    value="Del"/>
                             <Rajasthan
                                     jcr:primaryType="nt:unstructured"
                                     text="Rajasthan"
-                                    value="Rajasthan"/>
+                                    value="Raj"/>
                         </items>
                     </state>
                 <well
